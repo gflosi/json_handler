@@ -1,10 +1,7 @@
 import json
+from model import Model
 
 
 class Controller:
     def __init__(self):
-        data = json.loads(open('textos.txt').read())
-        for key, value in data["SUBJECT"].items():
-            print(key)
-
-        # print(data[0]["EN"])
+        self.modelo = Model()

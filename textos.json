@@ -10,7 +10,7 @@
 	'SNIPPET':{  
 		'ES':'Revisa el estado de tu cambio, ${ORIGINSNIPPET?skip?capitalize} a ${DESTINATIONSNIPPET?skip?capitalize}.',
 		'EN':'Check the status of your change. ${ORIGINSNIPPET?skip?capitalize} to ${DESTINATIONSNIPPET?skip?capitalize}.',
-		'FR':'Vérifiez l'état de votre changement. ${ORIGINSNIPPET?skip?capitalize} à ${DESTINATIONSNIPPET?skip?capitalize}.',
+		'FR':'Vérifiez létat de votre changement. ${ORIGINSNIPPET?skip?capitalize} à ${DESTINATIONSNIPPET?skip?capitalize}.',
 		'PT':'Verificar o status de sua alteração. ${ORIGINSNIPPET?skip?capitalize} a ${DESTINATIONSNIPPET?skip?capitalize}.',
 		'IT':'Controlla lo stato del cambiamento. ${ORIGINSNIPPET?skip?capitalize} a ${DESTINATIONSNIPPET?skip?capitalize}.',
 		'DE':'Überprüfen Sie den Status Ihrer Änderung. ${ORIGINSNIPPET?skip?capitalize} nach ${DESTINATIONSNIPPET?skip?capitalize}.'
