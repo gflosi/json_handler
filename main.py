@@ -1,5 +1,6 @@
 from controller import Controller
 
-c = Controller()
+c = Controller('textos.txt')
 
-c.duplicate_node(['TABLAITINERARIO', 'FR', 'SUBTEXTO'])
+c.duplicate_node(['TABLAITINERARIO', 'FR'])
+c.tmp_node()
