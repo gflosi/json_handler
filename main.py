@@ -1,6 +1,5 @@
 from controller import Controller
 
-c = Controller('textos.txt')
+c = Controller('table.txt', json=False, table=True)
 
-c.duplicate_node(['TABLAITINERARIO', 'FR'])
-c.tmp_node()
+#c.convert_table_to_node()
